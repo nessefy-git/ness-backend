@@ -1,0 +1,6 @@
+@SocialMediaAuthAPI_HostAddress = http://localhost:5223
+
+GET {{SocialMediaAuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
