@@ -1,307 +1,457 @@
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\appsettings.Development.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\appsettings.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.staticwebassets.endpoints.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.exe
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.deps.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.runtimeconfig.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\SocialMediaAuthAPI.pdb
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\AutoMapper.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Azure.Core.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Azure.Identity.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Humanizer.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\MailKit.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\MimeKit.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.CodeDom.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Memory.Data.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.csproj.AssemblyReference.cache
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.AssemblyInfoInputs.cache
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.AssemblyInfo.cs
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.csproj.CoreCompileInputs.cache
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\scopedcss\bundle\SocialMediaAuthAPI.styles.css
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets.build.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets.development.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SocialMediaAuthAPI.props
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SocialMediaAuthAPI.props
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SocialMediaAuthAPI.props
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets.pack.json
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMe.697E0852.Up2Date
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\refint\SocialMediaAuthAPI.dll
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.pdb
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\SocialMediaAuthAPI.genruntimeconfig.cache
-D:\myProject\SocialMediaAuthAPI\SocialMediaAuthAPI\obj\Debug\net8.0\ref\SocialMediaAuthAPI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\appsettings.json
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.staticwebassets.endpoints.json
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.exe
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.deps.json
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.runtimeconfig.json
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\SocialMediaAuthAPI.pdb
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Humanizer.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\MailKit.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\MimeKit.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\prita\Music\New folder\ness-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.csproj.AssemblyReference.cache
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.AssemblyInfoInputs.cache
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.AssemblyInfo.cs
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.csproj.CoreCompileInputs.cache
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.sourcelink.json
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\scopedcss\bundle\SocialMediaAuthAPI.styles.css
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets\msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets\msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.SocialMediaAuthAPI.props
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SocialMediaAuthAPI.props
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SocialMediaAuthAPI.props
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMe.697E0852.Up2Date
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.dll
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\refint\SocialMediaAuthAPI.dll
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.pdb
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\SocialMediaAuthAPI.genruntimeconfig.cache
-C:\Users\prita\Music\New folder\ness-backend\obj\Debug\net8.0\ref\SocialMediaAuthAPI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/appsettings.Development.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/appsettings.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.staticwebassets.endpoints.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.exe
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.deps.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.runtimeconfig.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/SocialMediaAuthAPI.pdb
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/AutoMapper.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Azure.Core.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Azure.Identity.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Humanizer.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/MailKit.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/MimeKit.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.CodeDom.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Memory.Data.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.AssemblyReference.cache
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfoInputs.cache
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfo.cs
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.CoreCompileInputs.cache
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/scopedcss/bundle/SocialMediaAuthAPI.styles.css
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets.build.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets.development.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SocialMediaAuthAPI.props
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SocialMediaAuthAPI.props
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SocialMediaAuthAPI.props
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets.pack.json
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMe.697E0852.Up2Date
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/refint/SocialMediaAuthAPI.dll
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.pdb
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/SocialMediaAuthAPI.genruntimeconfig.cache
+D:/myProject/SocialMediaAuthAPI/SocialMediaAuthAPI/obj/Debug/net8.0/ref/SocialMediaAuthAPI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/appsettings.json
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.staticwebassets.endpoints.json
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.exe
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.deps.json
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.runtimeconfig.json
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.pdb
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Humanizer.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/MailKit.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/MimeKit.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/prita/Music/New folder/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.AssemblyReference.cache
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfoInputs.cache
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfo.cs
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.CoreCompileInputs.cache
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.sourcelink.json
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/scopedcss/bundle/SocialMediaAuthAPI.styles.css
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.build.SocialMediaAuthAPI.props
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SocialMediaAuthAPI.props
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SocialMediaAuthAPI.props
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMe.697E0852.Up2Date
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.dll
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/refint/SocialMediaAuthAPI.dll
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.pdb
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.genruntimeconfig.cache
+C:/Users/prita/Music/New folder/ness-backend/obj/Debug/net8.0/ref/SocialMediaAuthAPI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/appsettings.Development.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/appsettings.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.deps.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.runtimeconfig.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/SocialMediaAuthAPI.pdb
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/AutoMapper.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Azure.Core.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Azure.Identity.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Humanizer.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/MailKit.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/MimeKit.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.CodeDom.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Memory.Data.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.AssemblyReference.cache
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfoInputs.cache
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.AssemblyInfo.cs
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.CoreCompileInputs.cache
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.sourcelink.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets.build.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets.development.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.SocialMediaAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.build.SocialMediaAuthAPI.props
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SocialMediaAuthAPI.props
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SocialMediaAuthAPI.props
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/staticwebassets.pack.json
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/scopedcss/bundle/SocialMediaAuthAPI.styles.css
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.csproj.CopyComplete
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/refint/SocialMediaAuthAPI.dll
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.pdb
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/SocialMediaAuthAPI.genruntimeconfig.cache
+/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/Debug/net8.0/ref/SocialMediaAuthAPI.dll
