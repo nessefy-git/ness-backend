@@ -4682,31 +4682,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\prita\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myProject\\SocialMediaAuthAPI\\SocialMediaAuthAPI\\SocialMediaAuthAPI.csproj",
+      "projectUniqueName": "/home/thursday-ubuntu/Downloads/nessefy/ness-backend/SocialMediaAuthAPI.csproj",
       "projectName": "SocialMediaAuthAPI",
-      "projectPath": "D:\\myProject\\SocialMediaAuthAPI\\SocialMediaAuthAPI\\SocialMediaAuthAPI.csproj",
-      "packagesPath": "C:\\Users\\prita\\.nuget\\packages\\",
-      "outputPath": "D:\\myProject\\SocialMediaAuthAPI\\SocialMediaAuthAPI\\obj\\",
+      "projectPath": "/home/thursday-ubuntu/Downloads/nessefy/ness-backend/SocialMediaAuthAPI.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/thursday-ubuntu/Downloads/nessefy/ness-backend/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\prita\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4719,13 +4712,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4789,7 +4776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

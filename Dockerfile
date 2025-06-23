@@ -1,21 +1,22 @@
-# --------- Stage 1: Build the application ---------
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy .csproj and restore
-COPY *.csproj ./
-RUN dotnet restore
-
-# Copy all files and build
+# Copy everything first
 COPY . .
-RUN dotnet publish -c Release -o /app/publish
 
-# --------- Stage 2: Run the application ---------
+# Restore using the correct .csproj
+RUN dotnet restore SocialMediaAuthAPI.csproj
+
+# Publish using the same project path
+RUN dotnet publish SocialMediaAuthAPI.csproj -c Release -o /app/publish
+
+# Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/publish .
 
-# Open port (match the one your app listens to)
-EXPOSE 5223
+ENV ASPNETCORE_ENVIRONMENT=Development
+ENV ASPNETCORE_URLS=http://0.0.0.0:5223
 
-ENTRYPOINT ["dotnet", "SocialMediaAuthAPI.csproj"]
+EXPOSE 5223
+ENTRYPOINT ["dotnet", "SocialMediaAuthAPI.dll"]
