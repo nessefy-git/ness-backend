@@ -1,0 +1,34 @@
+name: Deploy nessefy-backend to EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy to EC2 via SSH
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+    - name: SSH and deploy
+      run: |
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
+          cd /home/ubuntu/ness-backend  # or wherever your code should live
+          git pull origin main     # pull latest code
+          sudo docker stop nessefy-backend || true
+          sudo docker rm nessefy-backend || true
+          sudo docker rmi -f nessefy-backend || true
+          sudo docker build -t nessefy-backend .
+          sudo docker run -d --name nessefy-backend -p 5223:5223 nessefy-backend
+        EOF
