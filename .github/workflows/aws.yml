@@ -28,6 +28,7 @@ jobs:
           git pull origin main     # pull latest code
           sudo docker stop nessefy-backend || true
           sudo docker rm nessefy-backend || true
+          sudo docker rmi -f nessefy-backend || true
           sudo docker build -t nessefy-backend .
           sudo docker run -d --name nessefy-backend -p 5223:5223 nessefy-backend
         EOF
