@@ -1,4 +1,5 @@
 ﻿using System.Net;
+using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -144,7 +145,7 @@ namespace SocialMediaAuthAPI.Controllers
 
         //    return result.Succeeded ? Ok("Login successful") : Unauthorized("Invalid credentials.");
         //}
-        
+
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginRequestDto dto)
         {
@@ -153,7 +154,7 @@ namespace SocialMediaAuthAPI.Controllers
                 return Unauthorized("Invalid credentials");
 
             if (!user.IsEmailVerified)
-                return BadRequest("Please verify your email first.");
+                return BadRequest("Email not verified.");
 
             var token = _jwtTokenService.GenerateToken(user);
 
@@ -161,9 +162,11 @@ namespace SocialMediaAuthAPI.Controllers
             {
                 Token = token,
                 Email = user.Email,
-                UserId = user.Id
+                UserId = user.Id,
+                ProfileCompleted = user.ProfileCompleted
             });
         }
+
 
 
         [HttpPost("forgot-password")]
@@ -201,6 +204,47 @@ namespace SocialMediaAuthAPI.Controllers
 
             return Ok("Password reset successfully.");
         }
+
+        [Authorize]
+        [HttpPost("complete-profile")]
+        public async Task<IActionResult> CompleteUserProfile([FromBody] UserProfileDto dto)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if (user == null) return Unauthorized();
+
+            user.Name = dto.Name;
+            user.ContactNumber = dto.ContactNumber;
+            user.DateOfBirth = dto.DateOfBirth;
+            user.Gender = dto.Gender;
+            user.UserType = dto.UserType;
+
+            switch (dto.UserType.ToLower())
+            {
+                case "entrepreneur":
+                    user.ProductName = dto.ProductName;
+                    user.ProductDescription = dto.ProductDescription;
+                    break;
+                case "company":
+                    user.CompanyName = dto.CompanyName;
+                    user.AboutCompany = dto.AboutCompany;
+                    break;
+                case "investor":
+                    user.InvestmentInterest = dto.InvestmentInterest;
+                    break;
+                case "rookie":
+                    user.InterestedFields = dto.InterestedFields;
+                    break;
+            }
+
+            user.ProfileCompleted = true;
+            await _userManager.UpdateAsync(user);
+
+            return Ok("Profile completed.");
+        }
+
+
 
     }
 
