@@ -5,7 +5,11 @@
     public DateTime? DateOfBirth { get; set; }
     public string Gender { get; set; }
     public string UserType { get; set; }
+    public string? RookieType { get; set; } // Student, Job, Others
+  
 
+    // Entrepreneur
+ 
     public string? ProductName { get; set; }
     public string? ProductDescription { get; set; }
 

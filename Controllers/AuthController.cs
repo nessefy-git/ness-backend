@@ -72,34 +72,74 @@ namespace SocialMediaAuthAPI.Controllers
         }
 
 
+        //[HttpPost("verify-otp")]
+        //public async Task<IActionResult> VerifyOtp(VerifyOtpDto dto)
+        //{
+        //    var otpRecord = await _context.EmailOtps
+        //        .FirstOrDefaultAsync(x => x.Email == dto.Email && x.Otp == dto.Otp && x.ExpiryTime > DateTime.UtcNow);
+
+        //    if (otpRecord == null) return BadRequest("Invalid or expired OTP.");
+
+        //    // Check if user already exists (should not)
+        //    var existingUser = await _userManager.FindByEmailAsync(dto.Email);
+        //    if (existingUser != null) return BadRequest("User already verified.");
+
+        //    var user = new ApplicationUser
+        //    {
+        //        Email = dto.Email,
+        //        UserName = dto.Email,
+        //        IsEmailVerified = true
+        //    };
+
+        //    user.PasswordHash = otpRecord.PasswordHash;
+
+        //    var result = await _userManager.CreateAsync(user);
+        //    if (!result.Succeeded) return BadRequest(result.Errors);
+
+        //    _context.EmailOtps.Remove(otpRecord);
+        //    await _context.SaveChangesAsync();
+
+        //    return Ok("Email verified and account successfully created.");
+        //}
+
         [HttpPost("verify-otp")]
-        public async Task<IActionResult> VerifyOtp(VerifyOtpDto dto)
+        public async Task<IActionResult> VerifyOtp([FromBody] VerifyOtpDto dto)
         {
-            var otpRecord = await _context.EmailOtps
-                .FirstOrDefaultAsync(x => x.Email == dto.Email && x.Otp == dto.Otp && x.ExpiryTime > DateTime.UtcNow);
+            var otpEntry = await _context.EmailOtps
+                .FirstOrDefaultAsync(o => o.Email == dto.Email && o.Otp == dto.Otp);
 
-            if (otpRecord == null) return BadRequest("Invalid or expired OTP.");
+            if (otpEntry == null || otpEntry.ExpiryTime < DateTime.UtcNow)
+                return BadRequest("Invalid or expired OTP");
 
-            // Check if user already exists (should not)
             var existingUser = await _userManager.FindByEmailAsync(dto.Email);
-            if (existingUser != null) return BadRequest("User already verified.");
+            if (existingUser != null)
+                return BadRequest("User already registered");
 
+            // Create user after successful OTP verification
             var user = new ApplicationUser
             {
-                Email = dto.Email,
                 UserName = dto.Email,
-                IsEmailVerified = true
+                Email = dto.Email,
+                IsEmailVerified = true,
+                ProfileCompleted = false // default
             };
 
-            user.PasswordHash = otpRecord.PasswordHash;
+            var result = await _userManager.CreateAsync(user, dto.Password);
 
-            var result = await _userManager.CreateAsync(user);
-            if (!result.Succeeded) return BadRequest(result.Errors);
+            if (!result.Succeeded)
+                return BadRequest(result.Errors);
 
-            _context.EmailOtps.Remove(otpRecord);
-            await _context.SaveChangesAsync();
+            // ✅ Generate JWT token
+            var token = _jwtTokenService.GenerateToken(user);
 
-            return Ok("Email verified and account successfully created.");
+            // ✅ Return token + ProfileCompleted status
+            return Ok(new
+            {
+                Token = token,
+                Email = user.Email,
+                UserId = user.Id,
+                ProfileCompleted = user.ProfileCompleted
+            });
         }
 
         [HttpPost("resend-otp")]
@@ -205,6 +245,45 @@ namespace SocialMediaAuthAPI.Controllers
             return Ok("Password reset successfully.");
         }
 
+        //[Authorize]
+        //[HttpPost("complete-profile")]
+        //public async Task<IActionResult> CompleteUserProfile([FromBody] UserProfileDto dto)
+        //{
+        //    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        //    var user = await _userManager.FindByIdAsync(userId);
+
+        //    if (user == null) return Unauthorized();
+
+        //    user.Name = dto.Name;
+        //    user.ContactNumber = dto.ContactNumber;
+        //    user.DateOfBirth = dto.DateOfBirth;
+        //    user.Gender = dto.Gender;
+        //    user.UserType = dto.UserType;
+
+        //    switch (dto.UserType.ToLower())
+        //    {
+        //        case "entrepreneur":
+        //            user.ProductName = dto.ProductName;
+        //            user.ProductDescription = dto.ProductDescription;
+        //            break;
+        //        case "company":
+        //            user.CompanyName = dto.CompanyName;
+        //            user.AboutCompany = dto.AboutCompany;
+        //            break;
+        //        case "investor":
+        //            user.InvestmentInterest = dto.InvestmentInterest;
+        //            break;
+        //        case "rookie":
+        //            user.InterestedFields = dto.InterestedFields;
+        //            break;
+        //    }
+
+        //    user.ProfileCompleted = true;
+        //    await _userManager.UpdateAsync(user);
+
+        //    return Ok("Profile completed.");
+        //}
+
         [Authorize]
         [HttpPost("complete-profile")]
         public async Task<IActionResult> CompleteUserProfile([FromBody] UserProfileDto dto)
@@ -226,14 +305,18 @@ namespace SocialMediaAuthAPI.Controllers
                     user.ProductName = dto.ProductName;
                     user.ProductDescription = dto.ProductDescription;
                     break;
+
                 case "company":
                     user.CompanyName = dto.CompanyName;
                     user.AboutCompany = dto.AboutCompany;
                     break;
+
                 case "investor":
                     user.InvestmentInterest = dto.InvestmentInterest;
                     break;
+
                 case "rookie":
+                    user.RookieType = dto.RookieType; // NEW
                     user.InterestedFields = dto.InterestedFields;
                     break;
             }
@@ -243,6 +326,7 @@ namespace SocialMediaAuthAPI.Controllers
 
             return Ok("Profile completed.");
         }
+
 
 
 
