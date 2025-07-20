@@ -14,21 +14,23 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Set up SSH
+    - name: SSH into EC2_nessefy-backend
       run: |
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
-    - name: SSH and deploy
+    - name: Deploy to EC2_nessefy-backend
       run: |
         ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
           cd /home/ubuntu/ness-backend  # or wherever your code should live
           git pull origin main     # pull latest code
-          sudo docker stop nessefy-backend || true
-          sudo docker rm nessefy-backend || true
-          sudo docker rmi -f nessefy-backend || true
+          sudo docker stop $(docker ps -aq) || true
+          sudo docker rm $(docker ps -aq) || true
+          sudo docker rmi -f $(docker images -aq) || true
+          sudo docker system prune -a -f
+          sudo apt clean
           sudo docker build -t nessefy-backend .
           sudo docker run -d --name nessefy-backend -p 5223:5223 nessefy-backend
         EOF
