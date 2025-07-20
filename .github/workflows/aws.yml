@@ -32,5 +32,5 @@ jobs:
           sudo docker system prune -a -f
           sudo apt clean
           sudo docker build -t nessefy-backend .
-          sudo docker run -d --name nessefy-backend -p 5223:5223 nessefy-backend
+          sudo docker run -d -p 5223:5223 nessefy-backend
         EOF
