@@ -18,4 +18,6 @@
 
     public string? InvestmentInterest { get; set; }
     public string? InterestedFields { get; set; }
+
+    public IFormFile ProfilePhoto { get; set; }
 }
