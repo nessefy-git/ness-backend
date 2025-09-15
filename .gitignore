@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Visual Studio files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/JetBrains IDE
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Dependency folders
+node_modules/
+packages/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Sensitive configs
+appsettings.Development.json
+appsettings.Local.json
+
+# If you want to ignore all appsettings (not just local/dev)
+# uncomment the next line
+# appsettings.json
