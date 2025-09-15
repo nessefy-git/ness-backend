@@ -76,6 +76,8 @@ builder.Services.AddAuthentication(options =>
 });
 
 builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
+builder.Services.AddScoped<IS3Service, S3Service>();
+
 
 builder.Services.AddSwaggerGen(c =>
 {

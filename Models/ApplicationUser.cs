@@ -25,6 +25,11 @@ namespace SocialMediaAuthAPI.Models
 
         public bool ProfileCompleted { get; set; } = false;
 
+        
+
+        // ✅ New property for profile photo URL
+        public string? ProfilePhotoUrl { get; set; }
+
     }
 
 }

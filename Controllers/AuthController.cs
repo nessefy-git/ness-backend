@@ -21,11 +21,12 @@ namespace SocialMediaAuthAPI.Controllers
         private readonly IEmailService _emailService;
         private readonly AppDbContext _context;
         private readonly IJwtTokenService _jwtTokenService;
+        private readonly IS3Service _s3Service;
 
         public AuthController(UserManager<ApplicationUser> userManager,
                               SignInManager<ApplicationUser> signInManager,
                               IEmailService emailService,
-                              AppDbContext context, IJwtTokenService jwtTokenService
+                              AppDbContext context, IJwtTokenService jwtTokenService,IS3Service s3Service
             )
         {
             _userManager = userManager;
@@ -33,6 +34,7 @@ namespace SocialMediaAuthAPI.Controllers
             _emailService = emailService;
             _context = context;
             _jwtTokenService = jwtTokenService;
+            _s3Service = s3Service;
         }
         
         [HttpPost("register")]
@@ -284,15 +286,68 @@ namespace SocialMediaAuthAPI.Controllers
         //    return Ok("Profile completed.");
         //}
 
+        //[Authorize]
+        //[HttpPost("complete-profile")]
+        //public async Task<IActionResult> CompleteUserProfile([FromBody] UserProfileDto dto)
+        //{
+        //    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        //    var user = await _userManager.FindByIdAsync(userId);
+
+        //    if (user == null) return Unauthorized();
+
+        //    user.Name = dto.Name;
+        //    user.ContactNumber = dto.ContactNumber;
+        //    user.DateOfBirth = dto.DateOfBirth;
+        //    user.Gender = dto.Gender;
+        //    user.UserType = dto.UserType;
+
+        //    switch (dto.UserType.ToLower())
+        //    {
+        //        case "entrepreneur":
+        //            user.ProductName = dto.ProductName;
+        //            user.ProductDescription = dto.ProductDescription;
+        //            break;
+
+        //        case "company":
+        //            user.CompanyName = dto.CompanyName;
+        //            user.AboutCompany = dto.AboutCompany;
+        //            break;
+
+        //        case "investor":
+        //            user.InvestmentInterest = dto.InvestmentInterest;
+        //            break;
+
+        //        case "rookie":
+        //            user.RookieType = dto.RookieType; // NEW
+        //            user.InterestedFields = dto.InterestedFields;
+        //            break;
+        //    }
+
+        //    user.ProfileCompleted = true;
+        //    await _userManager.UpdateAsync(user);
+
+        //    return Ok("Profile completed.");
+        //}
+
+
+
         [Authorize]
         [HttpPost("complete-profile")]
-        public async Task<IActionResult> CompleteUserProfile([FromBody] UserProfileDto dto)
+        public async Task<IActionResult> CompleteUserProfile([FromForm] UserProfileDto dto)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var user = await _userManager.FindByIdAsync(userId);
 
             if (user == null) return Unauthorized();
 
+            // ✅ Upload profile photo to S3 if provided
+            if (dto.ProfilePhoto != null && dto.ProfilePhoto.Length > 0)
+            {
+                var photoUrl = await _s3Service.UploadProfileImageAsync(dto.ProfilePhoto, userId);
+                user.ProfilePhotoUrl = photoUrl;
+            }
+
+            // ✅ Update other fields
             user.Name = dto.Name;
             user.ContactNumber = dto.ContactNumber;
             user.DateOfBirth = dto.DateOfBirth;
@@ -316,7 +371,7 @@ namespace SocialMediaAuthAPI.Controllers
                     break;
 
                 case "rookie":
-                    user.RookieType = dto.RookieType; // NEW
+                    user.RookieType = dto.RookieType;
                     user.InterestedFields = dto.InterestedFields;
                     break;
             }
@@ -324,8 +379,9 @@ namespace SocialMediaAuthAPI.Controllers
             user.ProfileCompleted = true;
             await _userManager.UpdateAsync(user);
 
-            return Ok("Profile completed.");
+            return Ok(new { message = "Profile completed.", profilePhotoUrl = user.ProfilePhotoUrl });
         }
+
 
 
 
