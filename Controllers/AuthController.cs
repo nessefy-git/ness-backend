@@ -382,7 +382,37 @@ namespace SocialMediaAuthAPI.Controllers
             return Ok(new { message = "Profile completed.", profilePhotoUrl = user.ProfilePhotoUrl });
         }
 
+        [Authorize]
+        [HttpGet("get-profile")]
+        public async Task<IActionResult> GetUserProfile()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
 
+            if (user == null)
+                return Unauthorized(new { message = "User not found." });
+
+            var userProfile = new
+            {
+                user.Name,
+                user.Email,
+                user.ContactNumber,
+                user.DateOfBirth,
+                user.Gender,
+                user.UserType,
+                user.ProfilePhotoUrl,
+                user.ProductName,
+                user.ProductDescription,
+                user.CompanyName,
+                user.AboutCompany,
+                user.InvestmentInterest,
+                user.RookieType,
+                user.InterestedFields,
+                user.ProfileCompleted
+            };
+
+            return Ok(userProfile);
+        }
 
 
 
