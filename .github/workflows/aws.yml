@@ -26,11 +26,11 @@ jobs:
         ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
           cd /home/ubuntu/ness-backend  # or wherever your code should live
           git pull origin main     # pull latest code
-          sudo docker stop $(docker ps -aq) || true
-          sudo docker rm $(docker ps -aq) || true
-          sudo docker rmi -f $(docker images -aq) || true
+          sudo docker stop $(sudo docker ps -aq) || true
+          sudo docker rm $(sudo docker ps -aq) || true
+          sudo docker rmi -f $(sudo docker images -aq) || true
           sudo docker system prune -a -f
           sudo apt clean
           sudo docker build -t nessefy-backend .
-          sudo docker run -d -p 5223:5223 nessefy-backend
+          sudo docker run -p 5223:5223 -d --restart=always --name backend-container nessefy-backend
         EOF
