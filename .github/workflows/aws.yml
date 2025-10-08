@@ -1,4 +1,4 @@
-name: Deploy nessefy-backend to EC2
+name: Deploy to BAckend - EC2
 
 on:
   push:
@@ -14,23 +14,25 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: SSH into EC2_nessefy-backend
+    - name: Set up SSH
       run: |
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
-    - name: Deploy to EC2_nessefy-backend
+    - name: Login to Docker Hub
+      run: echo "${{ secrets.DOCKERHUB_TOKEN }}" | sudo docker login -u "${{ secrets.DOCKERHUB_USERNAME }}" --password-stdin
+
+    - name: Build and push Docker image
+      run: |
+        sudo docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/nessefy-backend:latest .
+        sudo docker push ${{ secrets.DOCKERHUB_USERNAME }}/nessefy-backend:latest
+
+    - name: SSH and deploy
       run: |
         ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
-          cd /home/ubuntu/ness-backend  # or wherever your code should live
-          git pull origin main     # pull latest code
-          sudo docker stop $(sudo docker ps -aq) || true
-          sudo docker rm $(sudo docker ps -aq) || true
-          sudo docker rmi -f $(sudo docker images -aq) || true
-          sudo docker system prune -a -f
-          sudo apt clean
-          sudo docker build -t nessefy-backend .
-          sudo docker run -p 5223:5223 -d --restart=always --name backend-container nessefy-backend
+          cd /home/ubuntu/ness-backend
+          sudo docker pull ${{ secrets.DOCKERHUB_USERNAME }}/nessefy-backend:latest
+          sudo docker compose up -d
         EOF
